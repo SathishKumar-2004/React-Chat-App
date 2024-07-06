@@ -2,7 +2,7 @@
 
 This is a real-time chat application built using React.js and Firebase.
 
-![Chat Application](Screenshot2.png)
+![Chat Application](public/Screenshot2.png)
 
 ## Features
 
