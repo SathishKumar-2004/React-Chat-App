@@ -8,7 +8,6 @@ This is a real-time chat application built using React.js and Firebase.
 
 - Real-time messaging
 - User authentication
-- Responsive design
 - Easy-to-use interface
 
 ## Technologies Used
