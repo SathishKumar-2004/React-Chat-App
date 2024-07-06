@@ -21,15 +21,15 @@ This is a real-time chat application built using React.js and Firebase.
 
 ### Home Page
 
-![Home Page](Screenshot1.png)
+![Home Page](public/Screenshot1.png)
 
 ### Chat Room
 
-![Chat Room](Screenshot2.png)
+![Chat Room](public/Screenshot2.png)
 
 ### User Authentication
 
-![User Authentication](Screenshot3.png)
+![User Authentication](public/Screenshot3.png)
 
 ## Getting Started
 
